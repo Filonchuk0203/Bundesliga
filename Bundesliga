@@ -1,0 +1,133 @@
+{  
+    "LeagueName":"Bundesliga 1",
+    "LeagueLogoURL":"https://2.bp.blogspot.com/-uGtDZ1J_MmA/W8oeAlGdfAI/AAAAAAAAbm4/SV32em9wVjwUzCMxkJZQm0VCsyZWSaiJACLcBGAs/s1600/Bundesliga_Logo.png",
+    "LeagueBallURL":"https://4.bp.blogspot.com/-j1bqcmrVSy0/W8oeINbeV3I/AAAAAAAAbm8/a-QTtVS3OrQrApgmeqbOq8FARsp0JzJwwCLcBGAs/s1600/Torfabrik.png",
+    "Teams":{  
+       "MUN":{  
+          "TeamName":"FC Bayern Munchen",
+          "TeamShortName":"BMN",
+          "TeamLogoURL":"https://4.bp.blogspot.com/-m__KgquHYjA/W8oeiKzedMI/AAAAAAAAbng/LhNJ2xsCOEgHB6TwzMrcV7IYqZ9a11H5wCLcBGAs/s1600/BAYERN%2BEMB.png",
+          "TeamHomeKitURL":"https://3.bp.blogspot.com/-39uYpzn9YFw/W8oen8ypelI/AAAAAAAAbnk/tp52kcFfTFcOCSFyGZS7RBEzy8xLj2UkACLcBGAs/s320/FCB%2B1.png",
+          "TeamAwayKitURL":"https://4.bp.blogspot.com/-s6lLIMPh7pE/W8oen83ni1I/AAAAAAAAbno/kyl-wwWomKYAhmpwi9-Jym0dIT9ThKBMwCLcBGAs/s320/FCB%2B2.png"
+       },
+       "SCH":{  
+          "TeamName":"Schalke 04",
+          "TeamShortName":"SCH",
+          "TeamLogoURL":"https://1.bp.blogspot.com/-xEh2kbLCQ_E/W83C2UuosPI/AAAAAAAAbrA/E3BkpFXJNg0691azz48KWvmmQ1BTcBeGwCLcBGAs/s1600/S04.png",
+          "TeamHomeKitURL":"https://2.bp.blogspot.com/-jhPs1Ikvc0w/W83C503QVYI/AAAAAAAAbrI/Gtsx6tizP6A6H2umVor0NoVVEqUV6stegCLcBGAs/s320/S04%2B1.png",
+          "TeamAwayKitURL":"https://2.bp.blogspot.com/-tL015BZJjmw/W83C5_cFiqI/AAAAAAAAbrE/J-jea_i1xuoazdhvsDEjWFF3qCCZP_m_gCLcBGAs/s320/S04%2B2.png"
+       },
+       "DOR":{  
+          "TeamName":"Borusia Dortmund",
+          "TeamShortName":"BDR",
+          "TeamLogoURL":"https://4.bp.blogspot.com/-w2DVnrKrl7g/W8-hyTABUZI/AAAAAAAAbwk/cVu9r4hbf7EmJ-8vtNJN1eINkizlLRzeQCLcBGAs/s1600/BVB.png",
+          "TeamHomeKitURL":"https://4.bp.blogspot.com/-EZb7q3HX1V8/W8-h2TeMQ-I/AAAAAAAAbww/NBsWinSMcjYvyW4zxObDNnNatgfqAjKtQCLcBGAs/s320/BVB%2B1.png",
+          "TeamAwayKitURL":"https://3.bp.blogspot.com/-yqMBkQ1rdbk/W8-h2q2eAUI/AAAAAAAAbw0/ISSx-0-eQ1w4L0Efvf875GSNWybu7_YtQCLcBGAs/s320/BVB%2B2.png"
+       },
+       "FRF":{  
+          "TeamName":"Eintracht Frankfurt",
+          "TeamShortName":"EFR",
+          "TeamLogoURL":"https://4.bp.blogspot.com/-qyu8MJWeOfQ/W80nqP91cwI/AAAAAAAAbp8/iZ1CAqt_gJ8x1rWP9IQkd_UiIeLhB-lwACLcBGAs/s320/EIN%2B3.png",
+          "TeamHomeKitURL":"https://3.bp.blogspot.com/-mWJ_GeAXf5w/W80nqFscSnI/AAAAAAAAbp4/iQrhZf1icN8KV70zbnm7eydtmyDZ-1ViQCLcBGAs/s320/EIN%2B1.png",
+          "TeamAwayKitURL":"https://1.bp.blogspot.com/-kQbn0LkL_Uk/W80nqN_mdCI/AAAAAAAAbp0/3G6i0KRKy6gPc-Pj5zzMBEp30xiFpcIeACLcBGAs/s320/EIN%2B2.png"
+       },
+       "LEV":{  
+          "TeamName":"Bayer Leverkusen",
+          "TeamShortName":"BLV",
+          "TeamLogoURL":"https://4.bp.blogspot.com/-7N-mFg189hQ/W8oeZDDd4zI/AAAAAAAAbnM/tg6D3FDkUS0_DCrtt0SI6ns7EudeF_NWgCLcBGAs/s1600/LEVERKUSEN%2BEMB.png",
+          "TeamHomeKitURL":"https://1.bp.blogspot.com/-xTO24KXq9Dw/W8oeb2lJokI/AAAAAAAAbnU/2L2yb4rQKZYhj-IzatiVNMBn9NqY-XGDwCLcBGAs/s320/B04%2B1.png",
+          "TeamAwayKitURL":"https://3.bp.blogspot.com/-XTgbrLNPuw4/W8oebyKJw6I/AAAAAAAAbnQ/COn0cxAIGP0gsMphFpkdKQhNLcYd7kh8QCLcBGAs/s320/B04%2B2.png"
+       },
+       "LEI2":{  
+          "TeamName":"Leipzig",
+          "TeamShortName":"LEI",
+          "TeamLogoURL":"https://3.bp.blogspot.com/-ZVnyrU9790c/W88UD95QSXI/AAAAAAAAbvA/qf7gAuGUFfke22S3R7egYqAPVHTRijh6QCLcBGAs/s1600/RBL.png",
+          "TeamHomeKitURL":"https://2.bp.blogspot.com/-6EIXSd754x4/W84UjEL5a4I/AAAAAAAAbs8/7nhsFFsqfmIqF0RDlzlOuCEQzyuWv3OXQCLcBGAs/s320/RBL%2B1.png",
+          "TeamAwayKitURL":"https://1.bp.blogspot.com/-NpoWkOW8g68/W84Ujf8uJkI/AAAAAAAAbtA/PFn21HT6pTMTWMQMR8vgTkQxvqLJZrqVQCLcBGAs/s320/RBL%2B2.png"
+       },
+       "HOF":{  
+          "TeamName":"Hoffenheim",
+          "TeamShortName":"HOF",
+          "TeamLogoURL":"https://2.bp.blogspot.com/-ww-WUOzsQz4/W84T9bQNdlI/AAAAAAAAbsA/eeAY-ic0fx0pivdo8ymIVcp5uIhUkuDJwCLcBGAs/s1600/HOFFENHEIM%2BEMB.png",
+          "TeamHomeKitURL":"https://3.bp.blogspot.com/-CY3cwQEGalw/W84UBeJ_8jI/AAAAAAAAbsE/7-RUt6f8glwVM8zVH7oLsipvl70A_fRqgCLcBGAs/s320/HOF%2B1.png",
+          "TeamAwayKitURL":"https://2.bp.blogspot.com/-7m9ouUr6FJk/W84UBUY7jeI/AAAAAAAAbsI/vrN2vd8-nyoX2bvP3QBPix0L3Vb9MlM5QCLcBGAs/s320/HOF%2B2.png"
+       },
+       "MON":{  
+          "TeamName":"Borusia M'Gladbach",
+          "TeamShortName":"BMG",
+          "TeamLogoURL":"https://4.bp.blogspot.com/-a220TMah9LU/W80n2m3f7AI/AAAAAAAAbqA/a6YyymbfycAICAa9PR_kwKa9cZlAIacuwCLcBGAs/s1600/BMG%2BEMB.png",
+          "TeamHomeKitURL":"https://4.bp.blogspot.com/-a1CGM9BxcE4/W80n9CwHMvI/AAAAAAAAbqM/WcM3Gu8N9Z4H5kifF6_DsDHZ5O845cUZgCLcBGAs/s320/BMG%2B1.png",
+          "TeamAwayKitURL":"https://4.bp.blogspot.com/-3QDnrRrYb5E/W80n9eKlHEI/AAAAAAAAbqU/tEZNBgNZn14kuIiGIozgrBWzmuDFOX2ewCLcBGAs/s320/BMG%2B3.png"
+       },
+       "STU":{  
+          "TeamName":"Schtutgart",
+          "TeamShortName":"STU",
+          "TeamLogoURL":"https://1.bp.blogspot.com/-3UXnl3HMLE4/W88T3rpl9qI/AAAAAAAAbus/vxehtR8RqN8Juh3TJ6vAh3-cgLowKCnJACLcBGAs/s1600/STUTTGART%2BEMB.png",
+          "TeamHomeKitURL":"https://2.bp.blogspot.com/--I-DkccNHPQ/W88T7kOyy7I/AAAAAAAAbu4/a_R9oiSXjfQtcdbtPMDnbZxy66uq2OvEwCLcBGAs/s320/STT%2B1.png",
+          "TeamAwayKitURL":"https://4.bp.blogspot.com/-WEuwMkGy7n0/W88T7X13yEI/AAAAAAAAbuw/t1H8fJjrULMTpIKF6JNhwGO5ZLtDAFP9ACLcBGAs/s320/STT%2B2.png"
+       },
+       "AUG":{  
+          "TeamName":"Augsburg",
+          "TeamShortName":"AUG",
+          "TeamLogoURL":"https://2.bp.blogspot.com/-ScH1m-suAHk/W8oeOu2m8JI/AAAAAAAAbnA/zWWwIXuEcHA_ajRxc_4FXi07urel7XCcQCLcBGAs/s1600/AUGSBURG%2BEMB.png",
+          "TeamHomeKitURL":"https://1.bp.blogspot.com/-yt6FE4gIe3Q/W8oeRZ5vKVI/AAAAAAAAbnE/3ErZxczs9jwM7z1is56damISp03n5hBGQCLcBGAs/s320/AUG%2B1.png",
+          "TeamAwayKitURL":"https://4.bp.blogspot.com/-E0NCKsJvmco/W8oeRbZTWlI/AAAAAAAAbnI/gg_xSJ072C0wUWaL0v8crWJiF1rQPUlpwCLcBGAs/s320/AUG%2B2.png"
+       },
+       "HAN":{  
+          "TeamName":"Hanover 96",
+          "TeamShortName":"HAN",
+          "TeamLogoURL":"https://4.bp.blogspot.com/-3UUE5RtK4jg/W83C_dtPlYI/AAAAAAAAbrM/gEHKwNtrdfkvPEG0T2Z0hPcJ6m8MsGJsQCLcBGAs/s1600/HANNOVER%2BEMB.png",
+          "TeamHomeKitURL":"https://2.bp.blogspot.com/-DJ8p75hBslM/W83DFN5rKUI/AAAAAAAAbrQ/crH1UCh9JTgczH7jIpdK2u41ik79UyupgCLcBGAs/s320/H96%2B1.png",
+          "TeamAwayKitURL":"https://2.bp.blogspot.com/--2O-iUZVlfg/W83DFLCeRAI/AAAAAAAAbrU/IHYX2FZZHv4LDFooYxLV6mjVuzvmvtxbgCLcBGAs/s320/H96%2B2.png"
+       },
+       "BER":{  
+          "TeamName":"Herta Berlin",
+          "TeamShortName":"HBR",
+          "TeamLogoURL":"https://4.bp.blogspot.com/-L3o60IkCEHs/W84UHLep5YI/AAAAAAAAbsQ/TBsBsh-10ccHImuIgaJqPEMoBuRlk1nlACLcBGAs/s1600/HERTHA%2BEMB.png",
+          "TeamHomeKitURL":"https://1.bp.blogspot.com/-8ArljcTa6rI/W84ULGLJHYI/AAAAAAAAbsY/jPi5Vrsoy781GfsRFn9Kjjb31vcYdzD0ACLcBGAs/s320/HB%2B1.png",
+          "TeamAwayKitURL":"https://3.bp.blogspot.com/-URExHzIptNQ/W84ULCpbD-I/AAAAAAAAbsc/sk52DQB2ofA_ZZvn_GlLrks0PrgypKSWgCLcBGAs/s320/HB%2B2.png"
+       },
+       "FRE":{  
+          "TeamName":"Freiburg",
+          "TeamShortName":"FRE",
+          "TeamLogoURL":"https://4.bp.blogspot.com/-pPYGDN3gjTU/W83DKmdSa1I/AAAAAAAAbrg/A23taHtQ8xESC9sq9RkKy8-IQKHLPopyACLcBGAs/s1600/FREIBURG%2BEMB.png",
+          "TeamHomeKitURL":"https://3.bp.blogspot.com/-NPFjJHt28bU/W83DPTsEIwI/AAAAAAAAbro/9wHnQigh1hocrssLwW2Kk9h4wKlrnpg7QCLcBGAs/s320/SCF%2B1.png",
+          "TeamAwayKitURL":"https://4.bp.blogspot.com/-EuYSwh-Ga5I/W83DPqsWVSI/AAAAAAAAbrs/7VxbbN2poloIakWCTVs-5npbFR3eHrfQQCLcBGAs/s320/SCF%2B2.png"
+       },
+       "BRE":{  
+          "TeamName":"Werder Bremen",
+          "TeamShortName":"WBR",
+          "TeamLogoURL":"https://4.bp.blogspot.com/-JvLetH9lriI/W8-g5wtuF0I/AAAAAAAAbv0/M4yYK0e2zGA75H42zGyKFac72u-hXmbHgCLcBGAs/s1600/WERDER%2BEMB.png",
+          "TeamHomeKitURL":"https://1.bp.blogspot.com/-chOTbAlZ_x4/W8-hAhF8IlI/AAAAAAAAbv4/h4i8T5wNsRIlwVFHFXmE7mv7C2D3tIZtACLcBGAs/s320/WB%2B1.png",
+          "TeamAwayKitURL":"https://4.bp.blogspot.com/-5ElP3Cgn1UM/W8-hAlx6ddI/AAAAAAAAbv8/-N2fGYC55iMKvJlDB9z4cIRj1cmfsopVQCLcBGAs/s320/WB%2B2.png"
+       },
+       "WOL":{  
+          "TeamName":"Wolfsburg",
+          "TeamShortName":"WOL",
+          "TeamLogoURL":"https://2.bp.blogspot.com/-hb79-2q_ubc/W8-hbw2yH3I/AAAAAAAAbwQ/Xj_wF5_Dyhgk4ClLy4KqeijOnLENnHJ3wCLcBGAs/s1600/WOLFSBURG%2BEMB.png",
+          "TeamHomeKitURL":"https://3.bp.blogspot.com/-7axaSJxBiCI/W8-hjIzNl5I/AAAAAAAAbwU/R7TKY02i2zwYgUNpiVffjC62cnKNrQjKACLcBGAs/s320/WOL%2B1.png",
+          "TeamAwayKitURL":"https://1.bp.blogspot.com/-agLiFSE1hHQ/W8-hjG3NB1I/AAAAAAAAbwc/XAwMAt6ltP8NiaAr-Vyq5GR7P5-dWrDXQCLcBGAs/s320/WOL%2B2.png"
+       },
+       "MAI":{  
+          "TeamName":"Mainz 05",
+          "TeamShortName":"MAI",
+          "TeamLogoURL":"https://2.bp.blogspot.com/-lFyoElCaSvk/W88S_ZShlzI/AAAAAAAAbuE/J7-Y1cwWEjcKnzaxa0dIIsNkwzinMjDPgCLcBGAs/s1600/MAINZ%2BEMB.png",
+          "TeamHomeKitURL":"https://2.bp.blogspot.com/-4dnii-AMfzQ/W88THnvhJbI/AAAAAAAAbuM/D2Lcpfb1v2I9RluepvIGHLFGs6INkAdrQCLcBGAs/s320/M05%2B1.png",
+          "TeamAwayKitURL":"https://2.bp.blogspot.com/-Nxso28i4DsA/W88THn69HnI/AAAAAAAAbuQ/JGzrWwURX4QbTipKeTElMCdvUXCbnNVWwCLcBGAs/s320/M05%2B2.png"
+       },
+       "HAM":{  
+          "TeamName":"Fortuna 95",
+          "TeamShortName":"FOR",
+          "TeamLogoURL":"https://4.bp.blogspot.com/-7N3dYg4DI6c/W80nRvsddPI/AAAAAAAAbpY/fdTzJ82WAd83yM9j8ArM6fOjGp6dalZLgCLcBGAs/s1600/FDD.png",
+          "TeamHomeKitURL":"https://3.bp.blogspot.com/-l9a3ncCesxY/W80nWXxsAJI/AAAAAAAAbpg/8p83G4fqvb0F_4aTd9HP8GAO9YFGsv7ZQCLcBGAs/s320/FDD%2B1.png",
+          "TeamAwayKitURL":"https://3.bp.blogspot.com/-dCB-f1-A7us/W80nWZUup9I/AAAAAAAAbpk/TyoJRKujcE0fVy7h7y3o1886_PUlrB0mwCLcBGAs/s320/FDD%2B2.png"
+       },
+       "KOE":{  
+          "TeamName":"FC Nyurnburg",
+          "TeamShortName":"FCN",
+          "TeamLogoURL":"https://3.bp.blogspot.com/-bDQOpU5xfQY/W88TpU5Mp5I/AAAAAAAAbuc/TyCgTK_iwmUItkKGwXgiNmOz1YFOY-pzACLcBGAs/s1600/FCN.png",
+          "TeamHomeKitURL":"https://2.bp.blogspot.com/-_TsB_-xHGp8/W88TtGXDGOI/AAAAAAAAbug/TEWzEb-MBVoa99oAn50zhbS70KqONR1XACLcBGAs/s320/FCN%2B1.png",
+          "TeamAwayKitURL":"https://4.bp.blogspot.com/-WO8_ExJmdyY/W88TtBfbCLI/AAAAAAAAbuo/1h-sWuUdDqgJbOldQ1RfrD3Gad35z4EFwCLcBGAs/s320/FCN%2B2.png"
+       }
+    }
+ }
